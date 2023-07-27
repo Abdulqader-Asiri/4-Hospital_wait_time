@@ -110,12 +110,12 @@ In the first heatMap I thoughts it will be less wait time for patients at 7, 13,
 ---------------------------
 
 ## Report : 
-These some screnshots of the report:
-![]()
+These some screanshots of the report:
+![](photo/pers.png)
 ----------
-![]()
+![](photo/pers1.png)
 -----------
-![]()
+![](photo/pers2.png)
 ----------
 
 
